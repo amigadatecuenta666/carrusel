@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#carrusel {
+   
+}
+#menufijo {
+    background-color: #EAC2FF;
+    height: 100px;
+    width: 480px;
+    margin-left: 33%;
+    position: fixed;
+    z-index: 100;
+}
+#texto {
+}
+#contenido {
+}
+#contenido {
+}
